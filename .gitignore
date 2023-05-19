@@ -1,0 +1,12 @@
+# Virtual Environment
+/venv
+
+.idea/
+.DS_Store
+
+__pycache__/
+
+# Input and Output files
+*.txt
+!requirements.txt
+*.csv
